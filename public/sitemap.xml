@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>/blog</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>/categories</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>/about</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/terms</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>/blog/10-ai-tools-that-will-automate-your-daily-tasks-in-2026</loc><priority>0.8</priority></url>
+  <url><loc>/blog/how-i-saved-15-hours-a-week-using-ai-automation</loc><priority>0.8</priority></url>
+  <url><loc>/blog/best-ai-tools-for-content-writers-comparison-guide-2026</loc><priority>0.8</priority></url>
+  <url><loc>/blog/7-ai-video-editing-tools-that-feel-like-magic</loc><priority>0.8</priority></url>
+  <url><loc>/blog/ai-vs-human-which-actually-creates-better-content</loc><priority>0.8</priority></url>
+  <url><loc>/blog/my-ai-morning-routine-30-minutes-that-sets-up-the-day</loc><priority>0.8</priority></url>
+</urlset>
